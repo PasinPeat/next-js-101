@@ -82,7 +82,7 @@ export async function createInvoice(prevState: State, formData: FormData) {
 }
 
 export async function updateInvoice(
-  prevState: State,
+  // prevState: State,
   id: string,
   formData: FormData
 ) {
